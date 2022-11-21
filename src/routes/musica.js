@@ -1,7 +1,7 @@
 const { Router } = require('express');
 const router = Router();
 const _ = require('underscore');
-const canciones = require('../ejemplo.json');
+const canciones = require('../listado.json');
 
 //GET= se utiliza para obtener información del back-end y mostrarla en la interfaz de usuario
 router.get('/', (req, res) => {
