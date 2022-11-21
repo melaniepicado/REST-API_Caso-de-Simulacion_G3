@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1", 
+        "canción": "Yo no sé mañana",
+        "cantante": "Luis Enrique",
+        "género": "Salsa",
+        "año": "23 de marzo de 2009"
+    },
+    {
+        "id": "2", 
+        "canción": "Taboo",
+        "cantante": "Don Omar",
+        "género": "Lambada",
+        "año": "11 de abril de 2011"
+    }
+]
