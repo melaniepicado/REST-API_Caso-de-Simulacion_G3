@@ -11,3 +11,5 @@ Herramientas:
   -Postman
 
   -Lenguaje javaScript
+  
+  -JSON
